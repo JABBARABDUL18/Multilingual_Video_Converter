@@ -1,0 +1,10 @@
+target/
+workspace/
+.idea/
+.vscode/
+*.iml
+.env
+
+__pycache__/
+*.pyc
+*.log
